@@ -69,6 +69,7 @@ int main() {
 
   show_problem_header(&a, &x, &c, &m);
   resolve_problem(&a, &x, &c, &m);
+  system("pause");
 
   return 0;
 }

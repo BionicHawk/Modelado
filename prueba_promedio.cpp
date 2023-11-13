@@ -106,6 +106,7 @@ int main() {
   
   print_divider();
   resolve_problem(&numbers, &percent);
+  system("pause");
 
   return 0;
 }

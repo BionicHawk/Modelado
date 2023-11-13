@@ -86,4 +86,5 @@ int main() {
   get_responses(&m, "Dame el valor de m");
 
   resolve_problem(&a, &x, &m);
+  system("pause");
 }
